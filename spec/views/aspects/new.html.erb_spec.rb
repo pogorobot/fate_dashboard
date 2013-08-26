@@ -1,8 +1,14 @@
 require 'spec_helper'
 
 describe "aspects/new.html.erb" do
+	let(:aspect) do
+		mock_model("Aspect").as_new_record.as_null_object
+	end
+
+	before do
+		assign(:aspect, aspect)
+	end
 	it "renders a form to create an aspect" do
-		assign(:aspect, mock_model("Aspect").as_new_record.as_null_object)
 		render
 		rendered.should have_selector("form",
 			:method => "post",
@@ -12,7 +18,7 @@ describe "aspects/new.html.erb" do
 		end
 	end
 	it "renders a text field for the text of the aspect" do
-		assign(:aspect, mock_model("Aspect", :text => "Grizzled Old Sergeant").as_new_record.as_null_object)
+		aspect.stub(:text => "Grizzled Old Sergeant")
 		render
 		rendered.should have_selector("form") do |form|
 			form.should have_selector("input",
