@@ -8,6 +8,7 @@ describe "aspects/new.html.erb" do
 	before(:each) do
 		assign(:aspect, aspect)
 	end
+
 	it "renders a form to create an aspect" do
 		render
 		rendered.should have_selector("form",
@@ -17,6 +18,7 @@ describe "aspects/new.html.erb" do
 			form.should have_selector("input", :type => "submit")
 		end
 	end
+	
 	it "renders a text field for the text of the aspect" do
 		aspect.stub(:text => "Grizzled Old Sergeant")
 		render
