@@ -5,7 +5,7 @@ describe "aspects/new.html.erb" do
 		mock_model("Aspect").as_new_record.as_null_object
 	end
 
-	before do
+	before(:each) do
 		assign(:aspect, aspect)
 	end
 	it "renders a form to create an aspect" do
