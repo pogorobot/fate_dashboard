@@ -1,0 +1,198 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"a",
+				"a"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/josh/projects/hrsc/spec/views/hr_resources/admin_resources.html.erb_spec.rb",
+		"/home/josh/projects/hrsc/app/views/hr_resources/_hr_resource.html.erb",
+		"/home/josh/projects/hrsc/app/views/hr_resources/admin_resources.html.erb",
+		"/home/josh/projects/hrsc/spec/views/hr_resources/edit.html.erb_spec.rb",
+		"/home/josh/projects/hrsc/app/views/hr_resources/affiliate_resources.html.erb",
+		"/home/josh/projects/hrsc/app/controllers/hr_resources_controller.rb",
+		"/home/josh/projects/hrsc/spec/controllers/hr_resources/hr_resources_controller_spec.rb",
+		"/home/josh/projects/hrsc/app/helpers/articles_helper.rb",
+		"/home/josh/projects/hrsc/app/controllers/articles_controller.rb",
+		"/home/josh/projects/hrsc/app/models/hr_resource.rb",
+		"/home/josh/projects/hrsc/app/models/hr_resource_selection.rb",
+		"/home/josh/projects/hrsc/app/models/user.rb",
+		"/home/josh/projects/hrsc/spec/factories.rb",
+		"/home/josh/projects/hrsc/app/models/affiliate.rb",
+		"/home/josh/projects/hrsc/app/views/hr_resources/index.html.erb",
+		"/home/josh/projects/hrsc/spec/views/hr_resources/index.html.erb_spec.rb",
+		"/home/josh/projects/hrsc/app/views/hr_resources/_form.html.erb",
+		"/home/josh/projects/hrsc/app/views/hr_resources/new.html.erb",
+		"/home/josh/projects/hrsc/spec/views/hr_resources/new.html.erb_spec.rb",
+		"/home/josh/projects/hrsc/app/views/hr_resources/edit.html.erb",
+		"/home/josh/projects/hrsc/app/controllers/users_controller.rb",
+		"/home/josh/projects/hrsc/app/helpers/application_helper.rb",
+		"/home/josh/projects/hrsc/spec/spec_helper.rb",
+		"/home/josh/projects/hrsc/spec/support/devise.rb",
+		"/home/josh/projects/hrsc/old_spec/factories.rb",
+		"/home/josh/projects/hrsc/lib/user_api.rb",
+		"/home/josh/projects/hrsc/config/routes.rb",
+		"/home/josh/projects/hrsc/app/helpers/users_helper.rb",
+		"/home/josh/projects/fate_dashboard/spec/views/aspects/new.html.erb_spec.rb",
+		"/home/josh/projects/hrsc/spec/authenticate_spec.rb",
+		"/home/josh/projects/hrsc/config/database.yml",
+		"/home/josh/projects/hrsc/app/views/hr_activities/_quick_guides_options.html.erb",
+		"/home/josh/projects/hrsc/config/environment.rb",
+		"/home/josh/projects/hrsc/old-spec/controllers/admin_privileges_controller_spec.rb",
+		"/home/josh/projects/hrsc/old-spec/models/admin_privilege_spec.rb",
+		"/home/josh/projects/hrsc/old-spec/routing/federal_laws_routing_spec.rb",
+		"/home/josh/projects/hrsc/config/database.yml.sample",
+		"/home/josh/projects/fate_dashboard/config/application.rb"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			", valid_session",
+			"recommend_p",
+			"hral_magic",
+			"admin",
+			"current_user",
+			"sqlite3"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"project": "fate_dashboard.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 263.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
